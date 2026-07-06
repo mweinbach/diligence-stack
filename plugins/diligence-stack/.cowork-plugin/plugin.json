@@ -1,6 +1,6 @@
 {
   "name": "diligence-stack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Diligence Stack research plugin.",
   "mcpServers": "./.mcp.json",
   "interface": {
