@@ -5,8 +5,7 @@
       "url": "https://portal.thediligencestack.com/mcp",
       "auth": {
         "type": "oauth",
-        "scope": "kb:search kb:fetch kb:read",
-        "oauthMode": "code"
+        "scope": "kb:search kb:fetch kb:read"
       }
     }
   }
