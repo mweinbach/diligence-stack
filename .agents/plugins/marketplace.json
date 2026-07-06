@@ -1,0 +1,25 @@
+{
+  "name": "diligence-stack",
+  "interface": {
+    "displayName": "Diligence Stack"
+  },
+  "plugins": [
+    {
+      "name": "diligence-stack",
+      "source": {
+        "source": "local",
+        "path": "./plugins/diligence-stack"
+      },
+      "sourceHash": "sha256:a78cd92deef483c49f72bd279c8f271643c503b21e7c71a37c2d7d393e0a800f",
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "NONE"
+      },
+      "category": "Research",
+      "interface": {
+        "displayName": "Diligence Stack",
+        "brandColor": "#0F172A"
+      }
+    }
+  ]
+}

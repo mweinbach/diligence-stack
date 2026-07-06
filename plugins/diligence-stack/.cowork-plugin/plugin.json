@@ -1,0 +1,10 @@
+{
+  "name": "diligence-stack",
+  "version": "1.0.0",
+  "description": "Diligence Stack research plugin.",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Diligence Stack",
+    "brandColor": "#0F172A"
+  }
+}

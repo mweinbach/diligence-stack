@@ -1,0 +1,7 @@
+.cowork/
+.DS_Store
+User Uploads/
+Downloads/
+node_modules/
+dist/
+*.log
