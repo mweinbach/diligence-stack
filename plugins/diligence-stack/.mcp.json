@@ -2,7 +2,12 @@
   "mcpServers": {
     "diligence-stack": {
       "type": "http",
-      "url": "https://portal.thediligencestack.com/mcp"
+      "url": "https://portal.thediligencestack.com/mcp",
+      "auth": {
+        "type": "oauth",
+        "scope": "kb:search kb:fetch kb:read",
+        "oauthMode": "code"
+      }
     }
   }
 }
