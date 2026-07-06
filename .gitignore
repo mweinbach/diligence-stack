@@ -5,3 +5,4 @@ Downloads/
 node_modules/
 dist/
 *.log
+hash-mismatch-screenshot.png
