@@ -10,7 +10,7 @@
         "source": "local",
         "path": "./plugins/diligence-stack"
       },
-      "sourceHash": "sha256:f43dc826c6e725c0de8fb39d465ba0574c961d848841ee50eff59264af0ec6b8",
+      "sourceHash": "sha256:374a71bbc6bd22361dadb90cb53341a4ce9ee3ca9984fcc7172004423e71040b",
       "policy": {
         "installation": "AVAILABLE",
         "authentication": "NONE"
