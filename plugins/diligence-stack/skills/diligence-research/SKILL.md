@@ -1,6 +1,8 @@
 ---
 name: diligence-research
 description: "Use when conducting research on AI infrastructure, semiconductors, memory/storage, datacenters, or hyperscalers using the Diligence Stack MCP server. Triggers on: 'search Diligence Stack', 'query Diligence Stack', 'fetch Diligence Stack evidence', 'find Diligence Stack reports', 'look up semiconductor / AI research'."
+metadata:
+  triggers: "search Diligence Stack, query Diligence Stack, fetch evidence, research semiconductors"
 ---
 
 # Diligence Research
